@@ -20,7 +20,7 @@ main {
   top: 0;
   width: 100vmin;
   height: 100vmin;
-  background-image: url(images/tv.png);
+  background-image: url(tv.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
